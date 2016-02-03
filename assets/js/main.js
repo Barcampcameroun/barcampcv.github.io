@@ -67,3 +67,7 @@ $('#registration-form').submit(function(e){
 */
 
 smoothScroll.init();
+
+$('#clock').countdown('2016/03/05 08:00:00', function(event) {
+   $(this).html(event.strftime('%D days %H:%M:%S'));
+});
