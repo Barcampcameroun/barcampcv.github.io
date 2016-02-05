@@ -457,12 +457,9 @@ ul li {
 }
 .sponsor .sponsor-box {
   display: block;
-  opacity: 0.3;
   height: 150px;
   width: 150px;
   margin: 25px auto;
-  -webkit-transition: 0.5s all linear;
-          transition: 0.5s all linear;
 }
 .sponsor .sponsor-box:hover {
   opacity: 1;
