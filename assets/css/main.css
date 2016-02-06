@@ -450,42 +450,42 @@ ul li {
 }
 
 /*
- * 6.7 Section: Schedule
+ * 6.7 Section: Sponsors
  */
-.sponsor {
+.partner {
   background-color: #f8f8f8;
 }
-.sponsor .sponsor-box {
+.partner .partner-box {
   display: block;
   height: 150px;
   width: 150px;
   margin: 25px auto;
 }
-.sponsor .sponsor-box:hover {
+.partner .partner-box:hover {
   opacity: 1;
 }
-.sponsor .sponsor-box-1 {
+.partner .partner-box-1 {
   background: url(../images/sponsor/sponsor-1.png) no-repeat center center/contain;
 }
-.sponsor .sponsor-box-2 {
+.partner .partner-box-2 {
   background: url(../images/sponsor/sponsor-2.png) no-repeat center center/contain;
 }
-.sponsor .sponsor-box-3 {
+.partner .partner-box-3 {
   background: url(../images/sponsor/sponsor-3.png) no-repeat center center/contain;
 }
-.sponsor .sponsor-box-4 {
+.partner .partner-box-4 {
   background: url(../images/sponsor/sponsor-4.png) no-repeat center center/contain;
 }
-.sponsor .sponsor-box-5 {
+.partner .partner-box-5 {
   background: url(../images/sponsor/sponsor-5.png) no-repeat center center/contain;
 }
-.sponsor .sponsor-box-6 {
+.partner .partner-box-6 {
   background: url(../images/sponsor/sponsor-6.png) no-repeat center center/contain;
 }
-.sponsor .sponsor-box-7 {
+.partner .partner-box-7 {
   background: url(../images/sponsor/sponsor-7.png) no-repeat center center/contain;
 }
-.sponsor .sponsor-box-8 {
+.partner .partner-box-8 {
   background: url(../images/sponsor/sponsor-8.png) no-repeat center center/contain;
 }
 
