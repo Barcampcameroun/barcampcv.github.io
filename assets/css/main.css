@@ -461,9 +461,6 @@ ul li {
   width: 175px;
   margin: 25px auto;
 }
-.partner .partner-box:hover {
-  opacity: 1;
-}
 .partner .partner-box-1 {
   background: url(../images/sponsor/sponsor-1.png) no-repeat center center/contain;
 }
