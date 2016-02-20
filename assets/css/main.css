@@ -340,7 +340,10 @@ ul li {
   text-transform: uppercase;
   width: 100%;
   z-index: 1;
-  padding: 0 15px;
+  padding: 25px;
+  background-color: rgba(0, 0, 0, 0.6);
+  margin-left: 30%;
+  margin-right: 30%;
 }
 .site-header .intro h2 {
   margin-top: 0px;
