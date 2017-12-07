@@ -10,3 +10,4 @@ Things to change yearly:
 * Location and time in FAQ
 * Price in FAQ
 * Event location at bottom/map
+* Event date in main.js
