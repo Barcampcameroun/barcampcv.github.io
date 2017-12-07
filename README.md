@@ -8,3 +8,5 @@ Things to change yearly:
 * Breakfast and Lunch sponsor in Event Schedule
 * Sponsors
 * Location and time in FAQ
+* Price in FAQ
+* Event location at bottom/map
