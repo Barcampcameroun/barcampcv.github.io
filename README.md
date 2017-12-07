@@ -7,3 +7,4 @@ Things to change yearly:
 * Event Schedule
 * Breakfast and Lunch sponsor in Event Schedule
 * Sponsors
+* Location and time in FAQ
