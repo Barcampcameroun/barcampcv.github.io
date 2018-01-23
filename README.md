@@ -2,6 +2,7 @@ Website for Cedar Valley BarCamp - http://barcampcv.com/
 
 Things to change yearly:
 * Date/Location/Year in header
+* Pre-party info in header
 * Register link in header
 * Date/Location/Ticket Price/Sessions count in icon section
 * Event Schedule
