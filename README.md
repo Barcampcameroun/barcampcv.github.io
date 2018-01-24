@@ -12,3 +12,4 @@ Things to change yearly:
 * Price in FAQ
 * Event location at bottom/map
 * Event date in main.js
+* Early bird info in FAQ
